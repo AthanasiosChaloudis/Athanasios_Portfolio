@@ -22,7 +22,7 @@
       <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
       
       <guid>https://athanasioschaloudis.github.io/Athanasios_Portfolio/post/project-3/</guid>
-      <description>This is an ongoing work, started in early October 2020 and will be delivered by the beginning of February 2021. This work is under the supervision and coordination of the University of Hamburg. Latest update : 11.12.2020
+      <description>Disclaimer: This is an ongoing work, started in early October 2020 and will be delivered by the beginning of February 2021. This work is under the supervision and coordination of the University of Hamburg. Latest update : 11.12.2020
 Recommender Systems or recommendation systems (sometimes replacing ‚system‘ with a synonym such as ‚platform‘ or ‚engine‘) are an evolving part of the modern industry’s toolbox, focused on customer acquisition, churn management, and revenue improvement.</description>
     </item>
     
@@ -37,13 +37,13 @@ Recommender Systems or recommendation systems (sometimes replacing ‚system‘ 
     </item>
     
     <item>
-      <title>Game Development: Defend The Fort! An indie Android Game (In Development)</title>
+      <title>Game Development: Defend The Fort! A Unity3D® indie Android Game (In Development)</title>
       <link>https://athanasioschaloudis.github.io/Athanasios_Portfolio/post/project-4/</link>
       <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
       
       <guid>https://athanasioschaloudis.github.io/Athanasios_Portfolio/post/project-4/</guid>
-      <description>For this example project I built a ball classifier to identify balls from different sports. This could be useful for someone who is new to sports from a certain country. They could take a picture of a ball and an app could serve them some information about the history and rules of the game. This is the underlying model for building something with those capabilities.
-I was able to get the model to predict the sport of the ball with 94% accuracy after minimal tuning.</description>
+      <description>Disclaimer: This is an ongoing work, collaboratively being completed stage-by-stage. The current form, assets, fonts, gameplay mechanics, and any further information are all subject to change. This presentation will be updated with any major release of the product. Latest Update: 13.12.2020
+Apart from pure Data Science, my core interest lies in the world of games. This project is a collaborative first approach to game creation, confronted by 2 good friends and me.</description>
     </item>
     
   </channel>
