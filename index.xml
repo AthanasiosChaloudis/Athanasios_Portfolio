@@ -2,58 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Athanasios Chaloudis on Home</title>
-    <link>https://athanasioschaloudis.github.io/Athanasios_Portfolio/</link>
+    <link>https://athanasioschaloudis.github.io/home/</link>
     <description>Recent content in Athanasios Chaloudis on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 May 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://athanasioschaloudis.github.io/Athanasios_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 May 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://athanasioschaloudis.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Wikipedia: Big Data Analysis and Exploratory Visualization </title>
-      <link>https://athanasioschaloudis.github.io/Athanasios_Portfolio/post/project-1/</link>
+      <link>https://athanasioschaloudis.github.io/home/post/project-1/</link>
       <pubDate>Sat, 09 May 2020 10:58:08 -0400</pubDate>
       
-      <guid>https://athanasioschaloudis.github.io/Athanasios_Portfolio/post/project-1/</guid>
+      <guid>https://athanasioschaloudis.github.io/home/post/project-1/</guid>
       <description>This work was part of a 6-month University Project. The core assignment was to scrape data from the known Wikipedia website, process and analyse the data and present the visualised data in a way the results can be clear and understanding. For this project a team of 4 was formed and my role was the Pre-Processing of the data in Python and the Visualization of the results in Tableau. Here we can see a summary of the work.</description>
     </item>
     
     <item>
       <title>Bachelor&#39;s Thesis: Analysis of Content Based- and Collaborative Filtering for a Movie Recommender System</title>
-      <link>https://athanasioschaloudis.github.io/Athanasios_Portfolio/post/project-3/</link>
+      <link>https://athanasioschaloudis.github.io/home/post/project-3/</link>
       <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
       
-      <guid>https://athanasioschaloudis.github.io/Athanasios_Portfolio/post/project-3/</guid>
+      <guid>https://athanasioschaloudis.github.io/home/post/project-3/</guid>
       <description>Disclaimer: This is an ongoing work, started in early October 2020 and will be delivered by the beginning of February 2021. This work is under the supervision and coordination of the University of Hamburg. Latest update : 11.12.2020
 Recommender Systems or recommendation systems (sometimes replacing ‚system‘ with a synonym such as ‚platform‘ or ‚engine‘) are an evolving part of the modern industry’s toolbox, focused on customer acquisition, churn management, and revenue improvement.</description>
     </item>
     
     <item>
       <title>Customer Classification for Churn Management with Machine Learning</title>
-      <link>https://athanasioschaloudis.github.io/Athanasios_Portfolio/post/project-2/</link>
+      <link>https://athanasioschaloudis.github.io/home/post/project-2/</link>
       <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
       
-      <guid>https://athanasioschaloudis.github.io/Athanasios_Portfolio/post/project-2/</guid>
+      <guid>https://athanasioschaloudis.github.io/home/post/project-2/</guid>
       <description>This was a project assigned to me by the University of Hamburg for a Data Science Module. The official name of the project was &amp;ldquo;Data Science for Web-Applications&amp;rdquo;. The focus of our analysis was to analyse a given dataset of a telecommunications company, which contained data describing their customers (sorted by UID&amp;rsquo;s). Some example features were:
  Gender Age Tenure ContractType (monthly,yearly,2years) PaymentMethod (creditCard, directDebit, cash-in-shop) Churn  The features describing the customers contained different data types and structures, some values were missing and some imported in varying styles (e.</description>
     </item>
     
     <item>
       <title>Game Development: Defend The Fort! A Unity3D® indie Android Game (In Development)</title>
-      <link>https://athanasioschaloudis.github.io/Athanasios_Portfolio/post/project-4/</link>
+      <link>https://athanasioschaloudis.github.io/home/post/project-4/</link>
       <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
       
-      <guid>https://athanasioschaloudis.github.io/Athanasios_Portfolio/post/project-4/</guid>
+      <guid>https://athanasioschaloudis.github.io/home/post/project-4/</guid>
       <description>Disclaimer: This is an ongoing work, collaboratively being completed stage-by-stage. The current form, assets, fonts, gameplay mechanics, and any further information are all subject to change. This presentation will be updated with any major release of the product. Latest Update: 13.12.2020
 Apart from pure Data Science, my core interest lies in the world of games. This project is a collaborative first approach to game creation, confronted by 2 good friends and me.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://athanasioschaloudis.github.io/Athanasios_Portfolio/contact/</link>
+      <link>https://athanasioschaloudis.github.io/home/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://athanasioschaloudis.github.io/Athanasios_Portfolio/contact/</guid>
+      <guid>https://athanasioschaloudis.github.io/home/contact/</guid>
       <description>Follow me on these social media platforms.
-   Platform URL     LinkedIn: https://www.linkedin.com/in/athanasios-chaloudis-283881132/   Medium: https://medium.com/@achaloudis   GitHub: https://github.com/AthanasiosChaloudis   Twitch: https://www.twitch.tv/cazuals    </description>
+   Platform URL     LinkedIn: https://www.linkedin.com/in/achaloudis/   Medium: https://medium.com/@achaloudis   GitHub: https://github.com/AthanasiosChaloudis   Twitch: https://www.twitch.tv/cazuals    </description>
     </item>
     
   </channel>
